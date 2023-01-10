@@ -1108,7 +1108,7 @@
     (property "Reference" "C2" (id 0) (at 102.87 95.2499 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Value" "1.5 n" (id 1) (at 102.87 97.7899 0)
+    (property "Value" "1.5 nF" (id 1) (at 102.87 97.7899 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Footprint" "Capacitor_SMD:C_0603_1608Metric" (id 2) (at 100.0252 100.33 0)
@@ -1437,7 +1437,7 @@
       (reference "C1") (unit 1) (value "100 nF") (footprint "Capacitor_SMD:C_0603_1608Metric")
     )
     (path "/3897e2d8-c0f0-4e04-a843-047251b96ca8"
-      (reference "C2") (unit 1) (value "1.5 n") (footprint "Capacitor_SMD:C_0603_1608Metric")
+      (reference "C2") (unit 1) (value "1.5 nF") (footprint "Capacitor_SMD:C_0603_1608Metric")
     )
     (path "/b4c155af-8b5f-4e43-827d-fa39b2417b0c"
       (reference "D1") (unit 1) (value "LED") (footprint "LED_SMD:LED_0603_1608Metric")

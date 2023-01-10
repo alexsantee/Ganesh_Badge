@@ -1228,7 +1228,7 @@
     (property "Sheetname" "")
     (path "/23a3ccf0-8d85-4244-bf6a-0d4b159e9dbb")
     (attr smd)
-    (fp_text reference "J2" (at 0 -7 unlocked) (layer "F.SilkS")
+    (fp_text reference "J2" (at 0 -7 unlocked) (layer "F.SilkS") hide
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp bc76196f-a866-421d-9f89-3050ffe30e7d)
     )
@@ -1549,7 +1549,7 @@
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp cc3a24d2-5f7d-46fe-83d3-4ed73cae8ddb)
     )
-    (fp_text value "1.5 n" (at 2.084 0 180) (layer "F.Fab")
+    (fp_text value "1.5 nF" (at 2.084 0 180) (layer "F.Fab")
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 9eb19dd3-8518-40f8-bbc1-7d70e5a964e7)
     )
