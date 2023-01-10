@@ -1,6 +1,6 @@
 # Ganesh Badge
 
-![3dimage](https://raw.githubusercontent.com/alexsantee/Ganesh_Badge/main/3dview/3dview.png)
+![picture](https://raw.githubusercontent.com/alexsantee/Ganesh_Badge/main/3dview/picture.jpg)
 
 The board is entirely based on Ganesh's logo, the back side has the logo printed in silkscreen and the front side has a circuit part shaped like the logo, which serves as a ground plane. The front also has the names of our main study areas.
 
