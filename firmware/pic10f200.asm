@@ -231,6 +231,31 @@ PRINT_LOOP
  goto PRINT_W_RET
  
 START
+ ; clear memory (8h-1fh at f202 and 10h-1fh at f200)
+ clrf 8h
+ clrf 9h
+ clrf 0ah
+ clrf 0bh
+ clrf 0ch
+ clrf 0dh
+ clrf 0eh
+ clrf 0fh
+ clrf 10h
+ clrf 11h
+ clrf 12h
+ clrf 13h
+ clrf 14h
+ clrf 15h
+ clrf 16h
+ clrf 17h
+ clrf 18h
+ clrf 19h
+ clrf 1ah
+ clrf 1bh
+ clrf 1ch
+ clrf 1dh
+ clrf 1eh
+ clrf 1fh
  ; OSSCAL register (calibration) is erased when flash is erased
  
  ; Starts with LED and TX high
