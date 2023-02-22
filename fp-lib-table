@@ -1,0 +1,5 @@
+(fp_lib_table
+  (lib (name "Logo_Ganesh")(type "KiCad")(uri "${KIPRJMOD}/../logo/")(options "")(descr "Logo do Ganesh"))
+  (lib (name "Custom_Footprints")(type "KiCad")(uri "${KIPRJMOD}/../custom_footprints/")(options "")(descr "Footprints indisponíveis ou modificadas"))
+  (lib (name "Pannelization")(type "KiCad")(uri "${KIPRJMOD}/../panel_footprints/")(options "")(descr "Mouse bites"))
+)
